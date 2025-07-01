@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Learning: **C#**, **.NET Core**, **Blazor**, **WinForms**, and **API development**
+- 🎓 Learning: **C#**, **Visual Programming and .NET Core**, **Blazor**, **WinForms**, and **API development**
 - 🔭 Currently building: **Astro Nepal** – Nepali astrology platform (rashifal, calendar, news)
 - ⚡ Side project: **JARVIS AI Assistant** – Voice-powered desktop AI with chat memory & control features
 - 💻 Tinkering with: Ubuntu Customization (Avengers Theme), Ethical Hacking, Linux Tools
