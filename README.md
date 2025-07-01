@@ -11,7 +11,7 @@
 - 🔭 Currently building: **Astro Nepal** – Nepali astrology platform (rashifal, calendar, news)
 - ⚡ Side project: **JARVIS AI Assistant** – Voice-powered desktop AI with chat memory & control features
 - 💻 Tinkering with: Ubuntu Customization (Avengers Theme), Ethical Hacking, Linux Tools
-- 🎵 Into tech, Yo Yo Honey Singh’s bangers 🤘
+- 🎵 Into tech, Vibe Coder🤣😂😅🤘
 
 ---
 
@@ -22,6 +22,7 @@
 - 🧱 **Blazor** – Interactive web UI in C#
 - 💾 **SQL Server** – Databases for .NET apps
 - 🧠 Topics: SOLID principles, design patterns, security & clean code
+- Currently Learning from notes and youtube😂🤣
 
 ---
 
@@ -89,4 +90,4 @@
 
 ---
 
-<p align="center">Built with ❤️ by Rupak Pandey | Learning .NET & Building Dreams 🚀</p>
+<p align="center">Built with ❤️ by Rupak Pandey | Learning & Building Dreams 🚀</p>
