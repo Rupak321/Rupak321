@@ -11,7 +11,7 @@
 - 🔭 Currently building: **Astro Nepal** – Nepali astrology platform (rashifal, calendar, news)
 - ⚡ Side project: **JARVIS AI Assistant** – Voice-powered desktop AI with chat memory & control features
 - 💻 Tinkering with: Ubuntu Customization (Avengers Theme), Ethical Hacking, Linux Tools
-- 🎵 Into tech, Tenali Rama’s wisdom & Yo Yo Honey Singh’s bangers 🤘
+- 🎵 Into tech, Yo Yo Honey Singh’s bangers 🤘
 
 ---
 
