@@ -71,13 +71,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rupak321&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
 
 ## 🌐 Let's Connect
 
