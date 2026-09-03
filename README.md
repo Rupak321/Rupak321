@@ -1,22 +1,24 @@
 <h1 align="center">Rupak Pandey</h1>
 
 <p align="center">
-  Software Developer · Mobile & Web · Nepal
+  Software Developer · Mobile &amp; Web · Kathmandu, Nepal<br />
+  <a href="https://pandeyrupak.com.np"><b>pandeyrupak.com.np</b></a>
 </p>
 
 <p align="center">
+  <a href="https://pandeyrupak.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-pandeyrupak.com.np-0b0b0d?style=flat-square" alt="Portfolio" />
+  </a>
   <a href="mailto:rupakpandey431@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/rupak-pandey-347391348">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Rupak321">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-<!-- Replace YOUR_LINKEDIN above with your handle, or remove the badge. -->
 
 ---
 
@@ -124,5 +126,5 @@ fundamentals through state management and platform integration.
 ---
 
 <p align="center">
-  <sub>Open to collaboration and freelance work — reach out by email.</sub>
+  <sub>Open to collaboration and freelance work — <a href="https://pandeyrupak.com.np">pandeyrupak.com.np</a> · rupakpandey431@gmail.com</sub>
 </p>
