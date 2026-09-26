@@ -1,7 +1,7 @@
 <h1 align="center">Rupak Pandey</h1>
 
 <p align="center">
-  Software Developer · Mobile &amp; Web · Kathmandu, Nepal<br />
+  Software Developer · Enthusiast Mobile &amp; Web · Kathmandu, Nepal<br />
   <a href="https://pandeyrupak.com.np"><b>pandeyrupak.com.np</b></a>
 </p>
 
