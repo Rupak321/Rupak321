@@ -1,130 +1,95 @@
-<h1 align="center">Rupak Pandey</h1>
+<a href="https://pandeyrupak.com.np">
+  <img src="assets/header.svg" width="100%" alt="Rupak Pandey — learner × builder. Software developer at Matrika Technology, studying BIT in Kathmandu, Nepal." />
+</a>
 
 <p align="center">
-  Software Developer · Enthusiast Learner Mobile &amp; Web · Kathmandu, Nepal<br />
-  <a href="https://pandeyrupak.com.np"><b>pandeyrupak.com.np</b></a>
+  <a href="https://pandeyrupak.com.np"><img src="https://img.shields.io/badge/read_the_full_issue-pandeyrupak.com.np-c9412f?style=flat-square&labelColor=0b0b0d" alt="Portfolio: pandeyrupak.com.np" /></a>
+  <a href="mailto:rupakpandey431@gmail.com"><img src="https://img.shields.io/badge/email-rupakpandey431@gmail.com-ece6d9?style=flat-square&labelColor=0b0b0d&logo=gmail&logoColor=ece6d9" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/rupak-pandey-347391348"><img src="https://img.shields.io/badge/linkedin-rupak_pandey-7f8bef?style=flat-square&labelColor=0b0b0d" alt="LinkedIn" /></a>
 </p>
 
-<p align="center">
-  <a href="https://pandeyrupak.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-pandeyrupak.com.np-0b0b0d?style=flat-square" alt="Portfolio" />
-  </a>
-  <a href="mailto:rupakpandey431@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/rupak-pandey-347391348">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Rupak321">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+## `$ whoami`
 
----
+**Curiosity got me into computers. Building things is what kept me here.**
 
-## About
+I'm a software developer at **Matrika Technology** in Kathmandu, building full-stack web
+apps and Flutter mobile apps for client projects, while studying for a **Bachelor of
+Information Technology** at Padmashree International College (Nilai University).
 
-I build mobile and web applications, with a current focus on Flutter and TypeScript.
-Most of my work targets problems specific to the Nepali market — vehicle rental,
-personal finance, and health tracking — where existing tools either don't exist or
-don't fit local constraints.
+Most of what I build on my own is aimed at problems specific to Nepal: vehicle rental,
+personal finance and health tracking, where the existing tools either don't exist or don't
+fit how things work here.
 
-- **Currently building:** Sajilo Sawari, a document-verified vehicle rental marketplace
-- **Also maintaining:** Fitevo, an AI-assisted fitness and nutrition tracker
-- **Interests:** mobile architecture, applied AI, Linux, and application security
+## `$ git log --graph --reverse`
 
----
+```text
+* a1c9e40  init: Computer Engineering track under TEVT            class 9 – 12
+|\
+| * 5d1f7b2  intern: Mobile App Development · Teko Techs          2025 · 2 months
+|/           flutter · dart · android
+* 9e04c31  feat: Bachelor of Information Technology               2026
+|\
+| * 3b8f61d  intern: Software Development · Matrika Technology    2026 · 3 months
+|/           web · flutter · team
+* 0c7a2e8  merge: offered the job at the end of the internship
+* e72ec16  (HEAD -> main) Software Developer · Matrika Technology   2026 — now
+```
 
-## Technical Skills
+## `$ ls ~/work`
 
-| Area | Technologies |
-| --- | --- |
-| Mobile | Flutter, Dart, Kotlin, Jetpack Compose, Material 3 |
-| Web | TypeScript, JavaScript, React, Node.js, HTML/CSS |
-| Backend | ASP.NET Core, Node.js, Blazor, REST API design |
-| Databases | Firebase (Firestore), SQL Server, MySQL, MongoDB |
-| Languages | Dart, TypeScript, Kotlin, C#, Java, Python, PHP |
-| AI / ML APIs | Groq, Gemini, OpenAI |
-| Tooling | Git, VS Code, Android Studio, Visual Studio, Figma |
-| Platforms | Android, Windows, Ubuntu, Kali Linux |
+**[Sajilo Sawari](https://github.com/Rupak321/sajilo-sawari)** · `TypeScript` `PostgreSQL` · in development<br />
+A multi-vehicle rental marketplace for Nepal: two-wheelers, cars, vans, goods transport and
+special equipment, listed by individuals and organisations. Every listing is verified against
+real documents (Bluebook, insurance, tax receipt, licence), and every vehicle can be booked
+with or without a driver.
 
----
+**[Watch Together](https://github.com/Rupak321/watch-together)** · `JavaScript` `Cloudflare` `WebRTC`<br />
+Watch the same film at the same moment with friends somewhere else. Every playhead in a room
+is held to one clock within about a tenth of a second, with voice, camera, chat and reactions
+on the same screen. No account, and it runs free on Cloudflare's edge.
 
-## Selected Projects
+**[Smart Expense](https://github.com/Rupak321/Smart-Expense-Tracker)** · `Flutter` `Firebase` · 156 passing tests<br />
+A personal finance app for Android that records income and spending, shows where the money
+goes, and exports reports you can share.
 
-### Sajilo Sawari
-A multi-vehicle rental marketplace for Nepal. Supports five vehicle classes —
-two-wheelers, passenger cars, vans, goods transport, and special equipment — listed by
-both individuals and organizations. Listings are verified against real documents
-(Bluebook, insurance, tax receipt, licence), and vehicles are bookable with or without
-a driver.
+**[Fitevo](https://github.com/Rupak321/fitevo)** · `Flutter` `Firebase` `Groq` `Gemini`<br />
+A local-first fitness, nutrition and workout tracker for beginners. Log a meal in one plain
+sentence and the model works out the nutrition and updates the day's targets. No paywalls,
+no shaming.
 
-**Stack:** TypeScript · **Status:** In development
-[Repository](https://github.com/Rupak321/sajilo-sawari)
-
-### Fitevo
-A local-first fitness, nutrition, and workout tracker aimed at beginners. Meals are
-logged in plain language — the model parses the entry, estimates nutrition, and updates
-daily targets. Designed to remove the friction and paywalls common to commercial
-fitness apps.
-
-**Stack:** Flutter · Firebase · Groq / Gemini
-[Repository](https://github.com/Rupak321/fitevo)
-
-### Smart Expense
-A personal finance application for Android that records income and expenditure,
-summarizes spending patterns, and exports shareable reports.
-
-**Stack:** Flutter · Dart 3 · Firebase Auth + Firestore · 156 passing tests
-[Repository](https://github.com/Rupak321/Smart-Expense-Tracker)
-
-### Blazify
-A music streaming player for Android, built as a collaborative project.
-
-**Stack:** Kotlin · Jetpack Compose · Material 3
-[Repository](https://github.com/Rupak321/blazify)
-
-### 60 Days of Flutter
-A structured sixty-day series of incremental Flutter builds, progressing from
-fundamentals through state management and platform integration.
-
-**Stack:** Flutter · Dart
-[Repository](https://github.com/Rupak321/Flutter-Learning-Projects-60-Days)
+**[Blazify](https://github.com/Rupak321/blazify)** · `Kotlin` `Jetpack Compose` · built together<br />
+A music streaming player for Android, with a desktop build for Linux and Windows.
 
 <details>
-<summary><b>Additional repositories</b></summary>
+<summary><b>Everything else, oldest lessons included</b></summary>
 
 <br />
 
-| Project | Description | Stack |
+| Project | What it is | Stack |
 | --- | --- | --- |
+| [60 Days of Flutter](https://github.com/Rupak321/Flutter-Learning-Projects-60-Days) | Sixty days of small builds, from basics to state management | Flutter |
 | [PRESCRIPTO](https://github.com/Rupak321/PRESCRIPTO) | Doctor appointment and prescription platform | JavaScript |
 | [Car-Rental](https://github.com/Rupak321/Car-Rental) | Vehicle rental web application | JavaScript |
 | [Majestic-Motors](https://github.com/Rupak321/Majestic-Motors) | Automotive showcase site | JavaScript |
 | [AstroNepal](https://github.com/Rupak321/AstroNepal) | Nepali astrology platform: rashifal, calendar, news | Java |
-| [Shop-Easy](https://github.com/Rupak321/Shop-Easy) | E-commerce storefront | PHP, HTML/CSS |
-| [To-Do-Application](https://github.com/Rupak321/To-Do-Application) | Task management application | Flutter |
-| [Quiz-Application](https://github.com/Rupak321/Quiz-Application) | Quiz app with persistent score history | Java |
-| [Visual-Programming](https://github.com/Rupak321/Visual-Programming) | Desktop UI coursework and exercises | C# |
-| [Updated-Portfolio](https://github.com/Rupak321/Updated-Portfolio) | Personal portfolio site | HTML/CSS |
+| [Shop-Easy](https://github.com/Rupak321/Shop-Easy) | E-commerce storefront | PHP |
+| [To-Do-Application](https://github.com/Rupak321/To-Do-Application) | Task manager | Flutter |
+| [Quiz-Application](https://github.com/Rupak321/Quiz-Application) | Quiz app that keeps a score history | Java |
+| [Visual-Programming](https://github.com/Rupak321/Visual-Programming) | Desktop UI coursework | C# |
 | [Java](https://github.com/Rupak321/Java) | Employee management system | Java |
 
 </details>
 
----
+## `$ ls ~/stack`
 
-## GitHub Activity
+<img src="assets/stack.svg" width="100%" alt="Stack. Mobile: Flutter, Dart, Kotlin, Jetpack Compose, Android. Web: TypeScript, JavaScript, React, Next.js, Node.js, Tailwind CSS, GSAP. Backend: ASP.NET Core, C#, Blazor, Java, Python, PHP. Data: Firebase, PostgreSQL, MySQL, MongoDB, SQL Server. AI: Gemini, Groq, OpenAI. Tools: Git, Android Studio, Figma, Cloudflare, Linux, Kali Linux." />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rupak321&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="GitHub statistics" />
-</p>
+## `$ git log --since=1.year`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupak321&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Most used languages" />
-</p>
+<img src="assets/activity.svg" width="100%" alt="Contributions over the last twelve months, public repositories, stars, and languages by bytes. Redrawn daily." />
 
----
+<br />
 
-<p align="center">
-  <sub>Open to collaboration and freelance work — <a href="https://pandeyrupak.com.np">pandeyrupak.com.np</a> · rupakpandey431@gmail.com</sub>
-</p>
+<a href="mailto:rupakpandey431@gmail.com">
+  <img src="assets/footer.svg" width="100%" alt="P.S. Write me a letter: rupakpandey431@gmail.com" />
+</a>
